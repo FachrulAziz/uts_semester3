@@ -47,5 +47,6 @@ if($proses_data){
 	<tr>
 		<td><input name="simpan" type="submit"></td>
 	</tr>
+			<button><a href="tampilkan.php">tampilkan data</a></button>
 </table>
 </form>
